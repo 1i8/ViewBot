@@ -16,7 +16,7 @@ YouTube View Bot that gives you free views and supports proxies.
 ## Installation 
 
 #### Compiled version
-> Go to [Releases](https://github.com/extatent/ViewBot/releases/tag/Release) and download the Debug.rar file.
+> Go to [Releases](https://github.com/extatent/ViewBot/releases/tag/Release) and download the ViewBot.zip file.
 
 #### Source Code
 >Click the green "Code" button. 
